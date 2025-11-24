@@ -26,3 +26,6 @@ substituir por
 let //craição de variaveis
 === //identico alta
 !== //não identico a
+
+ATENÇÃO !!!!
+No JavaScript podemos omitir as chaves nas estruturas de controle, porém so uma linha de codigo é processada (CUUUUUUIDADOOOOOOOO !!!!)
