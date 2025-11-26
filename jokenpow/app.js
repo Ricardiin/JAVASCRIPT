@@ -47,7 +47,7 @@ function jogar() {
     ) {
         resultado.innerText = "VOCÊ GANHOU!";
     } else {
-        resultado.innerText = "VOCÊ PERDEU!";
+        resultado.innerText = "COMPUTADOR VENCEU!";
     }
 }
 
