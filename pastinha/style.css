@@ -1,0 +1,40 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background-color: #222;
+    color: white;
+    background-image: url("img/fundo.png");
+    /* imagem de fundo */
+
+}
+
+.carta {
+    width: 220px;
+    height: 320px;
+    background-color: #444;
+    margin: 20px auto;
+    border-radius: 10px;
+    position: relative;
+    padding: 10px;
+}
+
+.carta img {
+    width: 100%;
+    margin-top: 20px;
+}
+
+#nomeCarta {
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+/* Elixir no canto superior esquerdo */
+#elixir {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: purple;
+    padding: 5px 10px;
+    border-radius: 50%;
+    font-weight: bold;
+}
