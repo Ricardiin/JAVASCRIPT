@@ -1,3 +1,8 @@
+/**
+ * clash royale
+ * @author ricardin
+ */
+
 let cartas = [
   { nome: "Mago", elixir: 4, imagem: "img/mago.png" },
   { nome: "Príncipe", elixir: 5, imagem: "img/principe.png" },
