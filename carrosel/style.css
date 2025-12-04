@@ -11,3 +11,18 @@
 img {
     max-width: 100%;
 }
+
+/* Efeito fade manipulado pelo JS */
+#slide.fadeout {
+    opacity: 0.1; /*ajuste */
+}
+
+#slide {
+    transition: opacity 2s;
+    /*ajuste junto com o JS */
+    opacity: 1;
+}
+
+body {
+    background-color: blue;
+}
